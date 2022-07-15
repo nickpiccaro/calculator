@@ -99,6 +99,7 @@ clear.addEventListener('click', function handleClick() {
 const allclear = document.getElementById('allclear');
 allclear.addEventListener('click', function handleClick() {
     display.textContent = '';
+    order=[];
 });
 
 // Operate
