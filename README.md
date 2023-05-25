@@ -1,3 +1,3 @@
 # calculator
 
-https://nicholaspiccaro.github.io/calculator/
+https://nickpiccaro.github.io/calculator/
